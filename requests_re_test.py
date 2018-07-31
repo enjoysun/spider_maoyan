@@ -6,7 +6,7 @@
 # @Email   : myoueva@gmail.com
 # @File    : requests_re_test.py
 # @Software: PyCharm
-# @license : 娱网科道信息技术有限公司 copyright © 2015-2016
+# @license : copyright © 2015-2016
 
 import requests
 import sys
